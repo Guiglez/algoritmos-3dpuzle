@@ -16,13 +16,15 @@
 |---|---|
 |<img src="./img/perm_aris1-1.png" width = 200>|<img src="./img/perm_aris1-2.png" width = 200>|
 
-***R - 2U - R 2U - R - 2U***
+***R - 2U - R - 2U - R - 2U***  
+***3(R - 2U)***
 
 |||
 |---|---|
 |<img src="./img/perm_aris2-1.png" width = 200>|<img src="./img/perm_aris2-2.png" width = 200>|
 
-***R - D - B -- R - 2U - R - 2U - R - 2U -- B - D' - R***
+***R - D - B -- R - 2U - R - 2U - R - 2U -- B - D' - R***  
+***R - D - B -- 3(R- 2U) -- B - D' - R***
 
 ## Notación
 

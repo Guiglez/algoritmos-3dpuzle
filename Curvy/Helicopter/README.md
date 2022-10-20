@@ -1,5 +1,23 @@
 # Helicopter
 
+## Algoritmos
+
+### Permutación de centros
+
+|||
+|---|---|
+|<img src="./img/perm_cent1-1.png" width = 200>|<img src="./img/perm_cent1-2.png" width = 200>|
+
+***FR - UR - FR - UR - FR - UR***  
+***3(FR - UR)***
+
+|||
+|---|---|
+|<img src="./img/perm_cent2-1.png" width = 200>|<img src="./img/perm_cent2-2.png" width = 200>|
+
+***FR - UF - FL - UF - FL - UF - FL - FR - UF - FL - UF - FL - UF - FL***  
+***FR - 3(UF - FL) - FR - 3(UF - FL)***
+
 ## Notación
 
 |||||
