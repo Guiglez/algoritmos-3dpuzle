@@ -2,6 +2,14 @@
 
 ## Algoritmos
 
+### Permutación de esquinas
+
+|||
+|---|---|
+|<img src="./img/perm_esq1-1.png" width = 200>|<img src="./img/perm_esq1-2.png" width = 200>|
+
+***UR UF UL UB UL UF UR***
+
 ### Permutación de centros
 
 |||
