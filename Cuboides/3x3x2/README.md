@@ -6,7 +6,7 @@
 
 |||
 |---|---|
-|<img src="./img/perm_esq1.png" width = 300>|<img src="./img/perm_esq2.png" width = 300>|
+|<img src="./img/perm_esq1.png" width = 200>|<img src="./img/perm_esq2.png" width = 200>|
 
 ***L - 2D - R - U - R - U’ - R - D’ R - U - R - U’ - R - D’ - L***
 
