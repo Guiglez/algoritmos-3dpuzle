@@ -1,5 +1,15 @@
 # Dino
 
+## Algoritmos
+
+## Permutación de aristas
+
+|||
+|---|---|
+|<img src="./img/perm_aris1-1.png" width = 200>|<img src="./img/perm_aris1-2.png" width = 200>|
+
+***B' - A' - B - A***
+
 ## Notación
 
 Notación estándar de cubos con giro entorno a las esquinas.
