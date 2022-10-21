@@ -1,5 +1,32 @@
 # Rex
 
+## Algoritmos
+
+### Permutación de pétalos
+
+|||
+|---|---|
+|<img src="./img/perm_petalos1-1.png" width = 200>|<img src="./img/perm_petalos1-2.png" width = 200>|
+
+***(F A' F' A) === &#963;***  
+***&#963; - B' - &#963; - B - A' - F - A - F' - B - &#963; - B' - &#963;***
+
+## Permutación de centros
+
+|||
+|---|---|
+|<img src="./img/perm_cent1-1.png" width = 200>|<img src="./img/perm_cent1-2.png" width = 200>|
+
+***(F A' F' A)***
+
+## Permutación de aristas
+
+|||
+|---|---|
+|<img src="./img/perm_aris1-1.png" width = 200>|<img src="./img/perm_aris1-2.png" width = 200>|
+
+***B' - A' - B - A***
+
 ## Notación
 
 Notación estándar de cubos con giro entorno a las esquinas.
